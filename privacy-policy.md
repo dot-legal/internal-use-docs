@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This document describes how `reference.legal` ("**we**", "**us**", "**our**"), processes the personal information we collect about our users, whether they are an individual or an organization ("**user**", "**you**", "**your**") of our products and services (collectively, "**Services**").`
+This document describes how `reference.legal` ("**we**", "**us**", "**our**"), processes the personal information we collect about our users, whether they are an individual or an organization ("**user**", "**you**", "**your**") of our products and services (collectively, "**Services**").
 
 ## Information We Collect
 
