@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This document describes how reference.legal ("**we**", "**us**", "**our**"), processes the personal information we collect about our users, whether they are an individual or an organization ("**user**", "**you**", "**your**") of our products and services (collectively, "**Services**").
+This document describes how reference.legal ("**we**", "**us**", "**our**") processes the personal information we collect about our users, whether they are an individual or an organization ("**user**", "**you**", "**your**") of our products and services (collectively, "**Services**").
 
 ## Information We Collect
 
@@ -22,7 +22,7 @@ We collect information that you give us directly, such as:
 * Profile information, such as your full name, alias, email, date of birth, and password
 * Information you provide to us while using our Services
 * Information you provide when seeking help from us, such as your name, telephone number, and records of the issues you experience
-* Billing information, such as your name, payment card number, payment account details, and shipping address
+<!-- * Billing information, such as your name, payment card number, payment account details, and shipping address -->
 
 ### Information We Collect When You Use Our Services
 
@@ -30,14 +30,14 @@ We may collect other information automatically when you use our Services, such a
 
 * Information about your device, hardware, and software, such as your IP address, hardware identifiers, mobile device identifiers (like Apple Identifier for Advertising (IDFA), or Android Advertising ID (AAID)), platform type, settings, and component
 * Geolocation data derived from your IP or device
-* Browser information, including history and interactions with web content
-* Device event information such as crash reports, requests, system activity
+<!-- * Browser information, including history and interactions with web content
+* Device event information such as crash reports, requests, system activity -->
 
-Our Services use cookies and similar technologies to collect your personal information and other information. You can learn more about cookies in the link below.
+<!-- Our Services use cookies and similar technologies to collect your personal information and other information. You can learn more about cookies in the link below.
 
 Incorporate <https://reference.legal/v1/sections/privacy/cookies-description>
 
-We currently do not respond to Do Not Track (DNT) signals. You may opt out of certain types of tracking on the web, including certain analytics and tailored advertising by changing the cookie settings in your browser or via our consent tools, as applicable.
+We currently do not respond to Do Not Track (DNT) signals. You may opt out of certain types of tracking on the web, including certain analytics and tailored advertising by changing the cookie settings in your browser or via our consent tools, as applicable. -->
 
 ### Information Provided to Us by Third Parties
 
