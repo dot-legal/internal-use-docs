@@ -12,7 +12,7 @@ We currently do not respond to Do Not Track (DNT) signals. You may opt out of ce
 
 ## Privacy Policy
 
-You may wish to review our privacy policy at <https://official.reference.legal/docs/privacy-policy/>.
+You may wish to review our privacy policy at <https://official.reference.legal/docs/privacy-policy/latest/>.
 
 ## Changes to This Document
 
