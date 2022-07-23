@@ -114,4 +114,4 @@ If you have questions about this document, please contact us on our homepage.
 
 If you have a concern about how we collect and use information, please contact us. In certain jurisdictions, you may also have the right to contact your local Data Protection Authority instead. Please reach out to the applicable Data Protection Authority:
 
-Incorporate <https://reference.legal/v1/sections/privacy/data-protection-authority-contact>.
+Incorporate <https://reference.legal/v1/sections/privacy/data-protection-authority-contact/LATEST>.
