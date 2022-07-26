@@ -47,7 +47,7 @@ You acknowledge and agree that:
 
 ## Termination
 
-This document will automatically expire at the end of your participation as a beta tester unless terminated sooner in accordance with this document, and in any case shall expire not more than five years after the date of this document. Either party may terminate this document before the end of your participation in the Sonos Beta Program for any reason or no reason upon 30 days' written notice to the other party. This document will automatically terminate upon any breach by you of any of your obligations hereunder including breach of confidentiality obligations.  Upon termination, reference.legal may revoke your access to the Beta Product and will not be obligated to retain any data or information related to your use of the Beta Product.
+This document will automatically expire at the end of your participation as a beta tester unless terminated sooner in accordance with this document, and in any case shall expire not more than five years after the date of this document. Either party may terminate this document before the end of your participation in the beta program for any reason or no reason upon 30 days' written notice to the other party. This document will automatically terminate upon any breach by you of any of your obligations hereunder including breach of confidentiality obligations.  Upon termination, reference.legal may revoke your access to the Beta Product and will not be obligated to retain any data or information related to your use of the Beta Product.
 
 ## Privacy
 
